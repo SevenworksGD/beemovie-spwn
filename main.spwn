@@ -1,0 +1,3 @@
+beemovie = import beemovie
+
+$.print(beemovie())
